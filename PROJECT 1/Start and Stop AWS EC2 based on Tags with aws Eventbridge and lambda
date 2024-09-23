@@ -1,1 +1,16 @@
+Schedule EC2 Start
+Step 1: - Create Role For Lambda 
+Step 2: - Create Lambda Function Using Role Created And Check If Logs Are getting Created.
+Step 3: - Create Rule In Eventbridge To Trigger Lambda To Start EC2 Instances
+Step 4: - Create Python Code For Lambda To Start EC2 Instances For DEV Environment
+Step 5: - Schedule Eventbridge rule to start EC2 at 9 am
+Step 6: Test The Automation
+
+
+Schedule EC2 Stop
+Step 1: - Create Lambda Function Using Role Created And Check If Logs Are getting Created.
+Step 2: - Create Rule In Eventbridge To Trigger Lambda To Stop EC2 Instances
+Step 3: - Create Python Code For Lambda To Stop EC2 Instances For DEV Environment
+Step 4: - Schedule Eventbridge rule to start EC2 at 9 am
+Step 6: - Test The Automation
 
