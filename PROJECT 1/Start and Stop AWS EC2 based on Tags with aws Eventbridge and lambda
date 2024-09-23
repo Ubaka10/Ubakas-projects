@@ -1,3 +1,5 @@
+STEPS TO FOLLOW
+
 Schedule EC2 Start
 Step 1: - Create Role For Lambda 
 Step 2: - Create Lambda Function Using Role Created And Check If Logs Are getting Created.
